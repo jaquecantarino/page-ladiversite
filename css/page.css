@@ -6,6 +6,12 @@ nav{
   color: #ffffff;
 }
 
+#body{
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-left: 15px;
+}
+
 .container {
   width: 40%;
   height: 100%;
